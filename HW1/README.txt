@@ -1,0 +1,1 @@
+In this assignment, students are asked to collected data related to "Beijing 2022 Winter Olympics" from Weibo(微博). Each piece of data should contain username, post date, post content, number of reposts, comments, and likes. The video of each post should also be downloaded.  
