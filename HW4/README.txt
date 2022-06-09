@@ -1,1 +1,1 @@
-Students can choose a topic and conduct a data analysis task on their own.
+Conduct data analysis on the topic of Covid-19 Pandemic in China
